@@ -1,3 +1,10 @@
+# Palette
+# Background  434E52
+# Text        ECCE6D
+# Highlight 1 5B8C85
+# Highlight 2 B0A160
+
+
 body {
   background-color: #434e52;
 }
@@ -6,3 +13,5 @@ h1 {
   text-align: center;
   color: #ecce6d;
 }
+
+
